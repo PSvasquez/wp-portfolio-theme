@@ -13,4 +13,9 @@
 */
 body {
 	background-color: #DABFFF ;
+	color: white;
+	background-image: url(http://67.media.tumblr.com/b8d522bba85ec6fce55d8334a6943af4/tumblr_njypmwuvm01tf8vylo1_1280.png);
 } 
+.row {
+	background-color: #ffd1dc ;
+}
