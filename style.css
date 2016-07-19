@@ -1,0 +1,21 @@
+/*
+ Theme Name:   patricia's theme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+body {
+	background-color: #DABFFF ;
+	color: white;
+	background-image: url(http://67.media.tumblr.com/b8d522bba85ec6fce55d8334a6943af4/tumblr_njypmwuvm01tf8vylo1_1280.png);
+} 
+.row {
+	background-color: #ffd1dc ;
+}
